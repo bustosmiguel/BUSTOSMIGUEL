@@ -43,12 +43,6 @@
 <a href="https://forum.posit.co/u/bustosmiguel" target="_blank">
   <img src="https://img.shields.io/badge/Posit_Forum-Community-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="Posit Forum" />
 </a>
-<a href="https://stackoverflow.com/users/story/bustosmiguel" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-Profile-A51C30?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-</a>
-<a href="https://meta.stackexchange.com/users/bustosmiguel" target="_blank">
-  <img src="https://img.shields.io/badge/Meta_Stack_Exchange-Profile-A51C30?style=for-the-badge&logo=stack-exchange&logoColor=white" alt="Meta Stack Exchange" />
-</a>
 <a href="https://www.instagram.com/bustosmiguel_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Profile-A51C30?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
