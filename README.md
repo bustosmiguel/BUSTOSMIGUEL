@@ -7,10 +7,10 @@
 ---
 
 <a href="https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/" target="_blank">
-  <img src="https://img.shields.io/badge/Harvard_CS50R-R_DEVELOPER-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="Harvard CS50R" />
+  <img src="https://img.shields.io/badge/Harvard_CS50R-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="Harvard CS50R" />
 </a>
 
-* **Academic Program:** [Harvard CS50R: R Developer](https://cs50.harvard.edu/r/)
+* **Academic Program:** [Harvard CS50 CS50R](https://cs50.harvard.edu/r/)
 
 ---
 
