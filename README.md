@@ -1,4 +1,6 @@
-## Hi there 👋
+## Data & AI Engineer
+![Harvard Data Science](https://certificates.cs50.io/3eb6c000-02ce-45e7-8d97-0d2e96d56413.pdf?size=letter)
+![Harvard CS50 CS50R](https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/)
 
 - 🔭 I’m currently working on www.regressiondata.com.
 - 🌱 I’m currently learning cs50 and next: AWS (Anthropic and Boto3).
@@ -8,3 +10,7 @@
 (Universities and work: miguel.bustos@uc.cl/@mayor.cl/@regressiondata.com)
 - 😄 Pronouns: Mike, MB, Bustos Miguel
 - ⚡ Fun fact: I was a golf caddie, I was a Kickboxer, I tough to my daughter math and logic issues to her toolkit -> chess at 3 yrs, backgammon at 6 yrs and poker at 7 yrs. (THE BEAUTY OF THINKING - IMPOSSIBLE IT´S NOTHING)
+!()
+
+
+![Certificado oficial de Harvard - CS50R](./certificate/CS50R.png)
