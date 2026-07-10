@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Harvard_University-PROFESSIONAL_DATA_SCIENTIST-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard Data Science" />
 </a>
 
-* **Programa Académico:** [Harvard Professional Certificate in Data Science](https://pll.harvard.edu/series/professional-certificate-data-science)
+* **Academic Program:** [Harvard Professional Certificate in Data Science](https://pll.harvard.edu/series/professional-certificate-data-science)
 
 ---
 
@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/Harvard_CS50R-R_DEVELOPER-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="Harvard CS50R" />
 </a>
 
-* **Programa Académico:** [Harvard CS50R: Introduction to Programming with R](https://cs50.harvard.edu/r/)
+* **Academic Program:** [Harvard CS50R: R Developer](https://cs50.harvard.edu/r/)
 
 ---
 
-### Portafolio y Plataformas de Datos
+### Portfolio and Data Platforms
 
 <a href="https://connect.posit.cloud/miguelbustos" target="_blank">
   <img src="https://img.shields.io/badge/Posit_Cloud-Data_Apps-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="Posit Cloud" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/GitHub-Repositories-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-### Comunidad y Redes Profesionales
+### Community and Professional Networks
 
 <a href="https://www.linkedin.com/in/bustosmiguel/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Networking-A51C30?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,6 +42,12 @@
 </a>
 <a href="https://forum.posit.co/u/bustosmiguel" target="_blank">
   <img src="https://img.shields.io/badge/Posit_Forum-Community-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="Posit Forum" />
+</a>
+<a href="https://stackoverflow.com/users/story/bustosmiguel" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-Profile-A51C30?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
+<a href="https://meta.stackexchange.com/users/bustosmiguel" target="_blank">
+  <img src="https://img.shields.io/badge/Meta_Stack_Exchange-Profile-A51C30?style=for-the-badge&logo=stack-exchange&logoColor=white" alt="Meta Stack Exchange" />
 </a>
 <a href="https://www.instagram.com/bustosmiguel_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Profile-A51C30?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
