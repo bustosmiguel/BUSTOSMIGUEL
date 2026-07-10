@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Harvard_University-PROFESSIONAL_DATA_SCIENTIST-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard Data Science" />
 </a>
 
-* 🏫 **Programa Académico:** [Harvard Professional Certificate in Data Science](https://pll.harvard.edu/series/professional-certificate-data-science)
+* **Programa Académico:** [Harvard Professional Certificate in Data Science](https://pll.harvard.edu/series/professional-certificate-data-science)
 
 ---
 
@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/Harvard_CS50R-R_DEVELOPER-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="Harvard CS50R" />
 </a>
 
-* 🏫 **Programa Académico:** [Harvard CS50R: Introduction to Programming with R](https://cs50.harvard.edu/r/)
+* **Programa Académico:** [Harvard CS50R: Introduction to Programming with R](https://cs50.harvard.edu/r/)
 
 ---
 
-### 📊 Portafolio y Plataformas de Datos
+### Portafolio y Plataformas de Datos
 
 <a href="https://connect.posit.cloud/miguelbustos" target="_blank">
   <img src="https://img.shields.io/badge/Posit_Cloud-Data_Apps-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="Posit Cloud" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/GitHub-Repositories-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-### 🌐 Comunidad y Redes Profesionales
+### Comunidad y Redes Profesionales
 
 <a href="https://www.linkedin.com/in/bustosmiguel/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Networking-A51C30?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
