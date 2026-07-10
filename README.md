@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on www.regressiondata.com.
-- 🌱 I’m currently learning AWS (Anthropic and Boto3).
+- 🌱 I’m currently learning cs50 and next: AWS (Anthropic and Boto3).
 - 👯 I’m looking to collaborate on AI, ML and Data Strategies.
 - 🤔 I’m looking for help with IT Managers and others.
 - 📫 How to reach me: ing.mig.bustos@gmail.com
