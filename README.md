@@ -1,15 +1,15 @@
-# Miguel Angel Bustos Saez
-### Data & AI Engineer specialized in R & Python. Professional Certificate in Data Science by HarvardX and Harvard CS50.
-
-<a href="https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ" target="_blank">
-  <img src="https://img.shields.io/badge/Professional_Resume-View_CV-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="Professional Resume" />
-</a>
-
----
-
 ### GitHub Contributions
 
 ![GitHub Contributions Grid](https://github-readme-streak-stats.herokuapp.com/?user=bustosmiguel&theme=white&ring=a51c30&fire=a51c30&currStreakNum=a51c30&sideNums=a51c30&sideLabels=333333&dates=333333&stroke=a51c30&hide_border=true)
+
+---
+
+# MIGUEL ANGEL BUSTOS SÁEZ
+
+## Data & AI Engineer specialized in R & Python. Professional Certificate in Data Science by HarvardX and R by Harvard CS50.
+
+<a href="https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ" target="_blank"> <img src="https://img.shields.io/badge/Professional_Resume-View_CV-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="Professional Resume" />
+</a>
 
 ---
 
