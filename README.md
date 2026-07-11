@@ -17,7 +17,7 @@
 
 ### Technologies and Tools
 
-<img src="https://img.shields.io/badge/R-Core_Language-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Python-Core_Language-A51C30?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/RStudio-IDE-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" /> <img src="https://img.shields.io/badge/Git-Version_Control-A51C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-Portfolio-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Markdown-Documentation-A51C30?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+<img src="https://img.shields.io/badge/R-Core_Language-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Python-Core_Language-A51C30?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/RStudio-IDE-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" /> <img src="https://img.shields.io/badge/VS_Code-IDE-A51C30?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Git-Version_Control-A51C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-Portfolio-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Markdown-Documentation-A51C30?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 
 ---
 
