@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Harvard_University-PROFESSIONAL_DATA_SCIENTIST-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard Data Science" />
 </a>
 
-* **Academic Program:** [Harvard Professional Certificate in Data Science](https://pll.harvard.edu/series/professional-certificate-data-science)
+* **HARVARD R ACADEMIC PROGRAM:** [Harvard Professional Certificate in Data Science](https://pll.harvard.edu/series/professional-certificate-data-science)
 
 ---
 
@@ -10,18 +10,18 @@
   <img src="https://img.shields.io/badge/Harvard_CS50R-R_DEVELOPER-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="Harvard CS50R" />
 </a>
 
-* **Academic Program:** [Harvard CS50: R Developer](https://cs50.harvard.edu/r/)
-* **Project Video Presentation:** [Watch the regression data simulation package capstone](https://www.youtube.com/watch?v=lYkjYNni9OQ)
+* **HARVARD R ACADEMIC PROGRAM:** [Harvard CS50: R Developer](https://cs50.harvard.edu/r/)
+* **HARVARD R PROJECT VIDEO PRESENTATION:** [Watch the regression data simulation package capstone](https://www.youtube.com/watch?v=lYkjYNni9OQ)
 
 ---
 
-### Technologies and Tools
+### TECHNOLOGIES AND TOOLS
 
 <img src="https://img.shields.io/badge/R-Core_Language-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Python-Core_Language-A51C30?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/RStudio-IDE-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" /> <img src="https://img.shields.io/badge/VS_Code-IDE-A51C30?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Git-Version_Control-A51C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-Portfolio-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Markdown-Documentation-A51C30?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 
 ---
 
-### Portfolio and Data Platforms
+### PORTFOLIO AND DATA PLATFORMS
 
 <a href="https://connect.posit.cloud/miguelbustos" target="_blank">
   <img src="https://img.shields.io/badge/Posit_Cloud-Data_Apps-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="Posit Cloud" />
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/GitHub-Repositories-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-### Community and Professional Networks
+### COMMUNITY AND PROFESSIONAL NETWORKS
 
 <a href="https://www.linkedin.com/in/bustosmiguel/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Networking-A51C30?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
