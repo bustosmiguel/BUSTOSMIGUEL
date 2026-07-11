@@ -14,6 +14,19 @@
 * **Project Presentation:** [Watch the regression data simulation package capstone](https://www.youtube.com/watch?v=lYkjYNni9OQ)
 
 ---
+### Mi Actividad en GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=bustosmiguel&show_icons=true&title_color=a51c30&icon_color=a51c30&text_color=333333&bg_color=ffffff&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=bustosmiguel&layout=compact&title_color=a51c30&icon_color=a51c30&text_color=333333&bg_color=ffffff&hide_border=true)
+
+### Tecnologías y Herramientas
+
+<img src="https://img.shields.io/badge/R-Lenguaje_Principal-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/RStudio-IDE-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
+<img src="https://img.shields.io/badge/Git-Control_de_Versiones-A51C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-Portafolio-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Markdown-Documentación-A51C30?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 
 ### Portfolio and Data Platforms
 
