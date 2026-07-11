@@ -11,7 +11,7 @@
 </a>
 
 * **Academic Program:** [Harvard CS50: R Developer](https://cs50.harvard.edu/r/)
-* **Project Presentation:** [Watch the regression data simulation package capstone](https://www.youtube.com/watch?v=lYkjYNni9OQ)
+* **Project Video Presentation:** [Watch the regression data simulation package capstone](https://www.youtube.com/watch?v=lYkjYNni9OQ)
 
 ---
 
@@ -26,7 +26,7 @@
 <a href="https://connect.posit.cloud/miguelbustos" target="_blank">
   <img src="https://img.shields.io/badge/Posit_Cloud-Data_Apps-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="Posit Cloud" />
 </a>
-<a href="https://rpubs.com/MIGUEL_BUSTOS" target="_blank">
+<a href="https://rpubs.com/bustosmiguel" target="_blank">
   <img src="https://img.shields.io/badge/RPubs-Publications-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="RPubs" />
 </a>
 <a href="https://bustosmiguel.streamlit.app/" target="_blank">
