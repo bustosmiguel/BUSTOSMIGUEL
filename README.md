@@ -11,13 +11,6 @@
 </a>
 
 * **Academic Program:** [Harvard CS50: R Developer](https://cs50.harvard.edu/r/)
-
----
-
-<a href="https://www.youtube.com/watch?v=lYkjYNni9OQ" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Watch_Regression_Data_Simulation_Package_Capstone-A51C30?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Capstone Video" />
-</a>
-
 * **Project Presentation:** [Watch the regression data simulation package capstone](https://www.youtube.com/watch?v=lYkjYNni9OQ)
 
 ---
