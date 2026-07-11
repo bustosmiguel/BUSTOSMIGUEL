@@ -9,9 +9,10 @@
 ## Professional Certificate in Data Science by HarvardX and R by Harvard CS50.
 
 <a href="https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ" target="_blank"> <img src="https://img.shields.io/badge/Professional_Resume-View_CV-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="Professional Resume" />
-</a> <a href="ENLACE_DIRECTO_A_TU_PDF" download>
+<a href="ENLACE_DIRECTO_A_TU_PDF" download>
   <img src="https://img.shields.io/badge/Download_Resume-PDF_Format-A51C30?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download PDF" />
 </a>
+
 ---
 
 <a href="https://certificates.cs50.io/3eb6c000-02ce-45e7-8d97-0d2e96d56413.pdf?size=letter" target="_blank">
