@@ -6,11 +6,19 @@
 
 ---
 
-<a href="https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/" target="_blank">
+<a href="https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter/" target="_blank">
   <img src="https://img.shields.io/badge/Harvard_CS50R-R_DEVELOPER-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="Harvard CS50R" />
 </a>
 
 * **Academic Program:** [Harvard CS50: R Developer](https://cs50.harvard.edu/r/)
+
+---
+
+<a href="https://www.youtube.com/watch?v=lYkjYNni9OQ" target="_blank">
+  <img src="https://img.youtube.com/vi/lYkjYNni9OQ/0.jpg" alt="Regression Data Simulation Package Capstone Video Presentation" width="600" />
+</a>
+
+* **Video Presentation:** [Watch the regressiondata Simulation Package Capstone Presentation](https://www.youtube.com/watch?v=lYkjYNni9OQ)
 
 ---
 
