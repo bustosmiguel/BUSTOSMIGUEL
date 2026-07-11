@@ -11,7 +11,6 @@
 <a href="https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ" target="_blank"> <img src="https://img.shields.io/badge/Professional_Resume-View_CV-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="Professional Resume" />
 </a>
 
-Download the resume and click the URL´s to ckeck my diplomas and certification courses.
 ---
 
 <a href="https://certificates.cs50.io/3eb6c000-02ce-45e7-8d97-0d2e96d56413.pdf?size=letter" target="_blank">
