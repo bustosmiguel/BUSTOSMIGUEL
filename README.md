@@ -1,6 +1,7 @@
 ### GitHub Contributions
 
-![Estadísticas de Miguel](https://github-readme-stats.vercel.app/api?username=bustosmiguel&show_icons=true&theme=dark&title_color=a51c30&icon_color=a51c30&text_color=ffffff&bg_color=000000&hide_border=true)
+![GitHub Contributions Grid](https://github-readme-streak-stats.herokuapp.com/?user=bustosmiguel&theme=white&ring=a51c30&fire=a51c30&currStreakNum=a51c30&sideNums=a51c30&sideLabels=333333&dates=333333&stroke=a51c30&hide_border=true)
+
 ---
 
 # Miguel Angel Bustos Sáez
