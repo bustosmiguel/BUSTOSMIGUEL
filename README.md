@@ -6,26 +6,17 @@
 
 ## Professional Certificate in Data Science by HarvardX and R by Harvard CS50.
 
-<a href="https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ" target="_blank"> <img src="https://img.shields.io/badge/Professional_Resume-View_CV-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="Professional Resume" />
+### Resume & Certifications
 
----
+<p align="left">
+  <a href="https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ" target="_blank"><img src="https://img.shields.io/badge/Resume-View_CV-A51C30?style=flat&logo=github&logoColor=white" alt="CV" /></a>
+  <a href="https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/" target="_blank"><img src="https://img.shields.io/badge/Harvard-Data_Scientist-A51C30?style=flat&logo=harvard&logoColor=white" alt="Harvard Professional Certificate" /></a>
+  <a href="https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter/" target="_blank"><img src="https://img.shields.io/badge/Harvard_CS50R-R_Developer-A51C30?style=flat&logo=r&logoColor=white" alt="CS50R Certificate" /></a>
+  <a href="https://www.youtube.com/watch?v=lYkjYNni9OQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-CS50R_Capstone_Demo-FF0000?style=flat&logo=youtube&logoColor=white" alt="Demo Video" /></a>
+</p>
 
-<a href="https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/" target="_blank">
-  <img src="https://img.shields.io/badge/Harvard_University-PROFESSIONAL_DATA_SCIENTIST-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard Data Science" />
-</a>
-
-* **Harvard R Academic Program:** [Harvard Professional Certificate in Data Science](https://pll.harvard.edu/series/professional-certificate-data-science)
-
----
-
-<a href="https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter/" target="_blank">
-  <img src="https://img.shields.io/badge/Harvard_CS50R-R_DEVELOPER-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="Harvard CS50R" />
-</a>
-
-* **Harvard R Academic Program:** [Harvard CS50: R Developer](https://cs50.harvard.edu/r/)
-* **Harvard R Project Video Presentation:** [Watch the regression data simulation package capstone](https://www.youtube.com/watch?v=lYkjYNni9OQ)
-
----
+* **Harvard Data Science Certificate:** [Professional Certificate Program](https://pll.harvard.edu/series/professional-certificate-data-science)
+* **CS50R Capstone Package:** [Regression Data Simulation Package Video Presentation](https://www.youtube.com/watch?v=lYkjYNni9OQ)
 
 ### Stack & Tools
 
