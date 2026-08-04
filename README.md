@@ -25,7 +25,6 @@
   <tr>
     <!-- Columna Izquierda: Badges / Connections -->
     <td valign="top" width="60%">
-      <h3>Connections</h3>
       <p>
         <img src="https://img.shields.io/badge/R-A51C30?style=flat&logo=r&logoColor=white" alt="R" />
         <img src="https://img.shields.io/badge/Python-121212?style=flat&logo=python&logoColor=white" alt="Python" />
