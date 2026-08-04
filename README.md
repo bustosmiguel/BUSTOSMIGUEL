@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" />
-</p>
+![Gráfico de Contribuciones](https://ghchart.rshah.org/7952b3/bustosmiguel)
 
 
 
@@ -71,4 +69,9 @@
   <img src="https://img.shields.io/badge/Reddit-Discussions-A51C30?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
 
-![Gráfico de Contribuciones](https://ghchart.rshah.org/bustosmiguel)
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" />
+</p>
+
