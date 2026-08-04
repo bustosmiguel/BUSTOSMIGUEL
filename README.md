@@ -1,3 +1,5 @@
+![Gráfico de Contribuciones](https://ghchart.rshah.org/TU_USUARIO_GITHUB)
+
 # Miguel Angel Bustos Sáez
 
 ## Professional Certificate in Data Science by HarvardX and R by Harvard CS50.
