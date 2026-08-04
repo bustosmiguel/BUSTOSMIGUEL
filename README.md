@@ -1,9 +1,16 @@
-![Gráfico de Contribuciones](https://ghchart.rshah.org/40c463/bustosmiguel)
+<table width="100%">
+  <tr>
+    <!-- Columna Izquierda: Gráfico Verde SVG -->
+    <td valign="middle" align="center" width="50%">
+      <img src="https://ghchart.rshah.org/40c463/bustosmiguel" alt="Gráfico de Contribuciones" style="max-width: 100%;" />
+    </td>
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" />
-</p>
+    <!-- Columna Derecha: Tarjeta de Actividad Vercel -->
+    <td valign="middle" align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" style="max-width: 100%;" />
+    </td>
+  </tr>
+</table>
 
 # Miguel Angel Bustos Sáez
 
