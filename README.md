@@ -8,15 +8,13 @@
 
 ### Resume & Certifications
 
-<p align="left">
-  <a href="https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ" target="_blank"><img src="https://img.shields.io/badge/Resume-View_CV-A51C30?style=flat&logo=github&logoColor=white" alt="CV" /></a>
-  <a href="https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/" target="_blank"><img src="https://img.shields.io/badge/Harvard-Data_Scientist-A51C30?style=flat&logo=harvard&logoColor=white" alt="Harvard Professional Certificate" /></a>
-  <a href="https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter/" target="_blank"><img src="https://img.shields.io/badge/Harvard_CS50R-R_Developer-A51C30?style=flat&logo=r&logoColor=white" alt="CS50R Certificate" /></a>
-  <a href="https://www.youtube.com/watch?v=lYkjYNni9OQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-CS50R_Capstone_Demo-FF0000?style=flat&logo=youtube&logoColor=white" alt="Demo Video" /></a>
-</p>
+### Credentials & Projects
 
-* **Harvard Data Science Certificate:** [Professional Certificate Program](https://pll.harvard.edu/series/professional-certificate-data-science)
-* **CS50R Capstone Package:** [Regression Data Simulation Package Video Presentation](https://www.youtube.com/watch?v=lYkjYNni9OQ)
+| Program / Certificate | Issuer | Verification / Link |
+| :--- | :--- | :--- |
+| **Professional Resume** | GitHub | [📄 View CV](https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ) |
+| **Data Science Professional** | Harvard / edX | [🎓 Certificate](https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/) • [Program Info](https://pll.harvard.edu/series/professional-certificate-data-science) |
+| **CS50R: R Developer** | Harvard CS50 | [📜 Certificate](https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter/) • [🎥 Capstone Demo (YouTube)](https://www.youtube.com/watch?v=lYkjYNni9OQ) |
 
 ### Stack & Tools
 
