@@ -27,48 +27,37 @@
 
 ---
 
-### Technologies and Tools
+### Stack & Tools
 
-<img src="https://img.shields.io/badge/R-Core_Language-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Python-Core_Language-A51C30?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/RStudio-IDE-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" /> <img src="https://img.shields.io/badge/VS_Code-IDE-A51C30?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Git-Version_Control-A51C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-Portfolio-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Markdown-Documentation-A51C30?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+<p align="left">
+  <img src="https://img.shields.io/badge/R-A51C30?style=flat&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Python-121212?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/RStudio-121212?style=flat&logo=rstudio&logoColor=white" alt="RStudio" />
+  <img src="https://img.shields.io/badge/VS_Code-121212?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-121212?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121212?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Markdown-121212?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
 
----
+### Portfolios & Platforms
 
-### Portfolio and Data Platforms
+<p align="left">
+  <a href="https://connect.posit.cloud/miguelbustos" target="_blank"><img src="https://img.shields.io/badge/Posit_Cloud-A51C30?style=flat&logo=rstudio&logoColor=white" alt="Posit Cloud" /></a>
+  <a href="https://rpubs.com/bustosmiguel" target="_blank"><img src="https://img.shields.io/badge/RPubs-A51C30?style=flat&logo=r&logoColor=white" alt="RPubs" /></a>
+  <a href="https://bustosmiguel.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-121212?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
+  <a href="https://www.kaggle.com/bustosmiguel" target="_blank"><img src="https://img.shields.io/badge/Kaggle-121212?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://github.com/bustosmiguel" target="_blank"><img src="https://img.shields.io/badge/GitHub-121212?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<a href="https://connect.posit.cloud/miguelbustos" target="_blank">
-  <img src="https://img.shields.io/badge/Posit_Cloud-Data_Apps-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="Posit Cloud" />
-</a>
-<a href="https://rpubs.com/bustosmiguel" target="_blank">
-  <img src="https://img.shields.io/badge/RPubs-Publications-A51C30?style=for-the-badge&logo=r&logoColor=white" alt="RPubs" />
-</a>
-<a href="https://bustosmiguel.streamlit.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Streamlit-Dashboards-A51C30?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</a>
-<a href="https://www.kaggle.com/bustosmiguel" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-A51C30?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-</a>
-<a href="https://github.com/bustosmiguel" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-A51C30?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+### Connect
 
-### Community and Professional Networks
-
-<a href="https://www.linkedin.com/in/bustosmiguel/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Networking-A51C30?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://medium.com/@ing.mig.bustos" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-Articles-A51C30?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
-<a href="https://forum.posit.co/u/bustosmiguel" target="_blank">
-  <img src="https://img.shields.io/badge/Posit_Forum-Community-A51C30?style=for-the-badge&logo=rstudio&logoColor=white" alt="Posit Forum" />
-</a>
-<a href="https://www.instagram.com/bustosmiguel_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Profile-A51C30?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.reddit.com/user/Ready-Ad-4003/" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-Discussions-A51C30?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-</a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/bustosmiguel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@ing.mig.bustos" target="_blank"><img src="https://img.shields.io/badge/Medium-121212?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://forum.posit.co/u/bustosmiguel" target="_blank"><img src="https://img.shields.io/badge/Posit_Forum-121212?style=flat&logo=rstudio&logoColor=white" alt="Posit Forum" /></a>
+  <a href="https://www.instagram.com/bustosmiguel_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.reddit.com/user/Ready-Ad-4003/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit" /></a>
+</p>
 
 
 <p align="center">
