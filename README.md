@@ -1,13 +1,8 @@
-<table width="100%">
-  <tr>
-    <td valign="top" align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=bustosmiguel&show_icons=true&theme=dark" alt="GitHub Stats" width="100%" />
-    </td>
-    <td valign="top" align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://ghchart.rshah.org/40c463/bustosmiguel" alt="Gráfico de Contribuciones" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" width="48%" />
+</div>
 
 # Miguel Angel Bustos Sáez
 
