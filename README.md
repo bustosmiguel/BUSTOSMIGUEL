@@ -1,4 +1,4 @@
-![Gráfico de Contribuciones](https://ghchart.rshah.org/C90016/bustosmiguel)
+![Gráfico de Contribuciones](https://ghchart.rshah.org/40c463/bustosmiguel)
 
 
 <p align="center">
