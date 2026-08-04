@@ -1,4 +1,4 @@
-![Gráfico de Contribuciones](https://ghchart.rshah.org/bustosmiguel)
+![Gráfico de Contribuciones]([https://ghchart.rshah.org/7952b3/bustosmiguel](https://ghchart.rshah.org/7952b3/bustosmiguel))
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" />
 </p>
