@@ -21,10 +21,12 @@
 
 
 
+
+
 <table>
   <tr>
-    <!-- Columna 1: Connections & Badges -->
-    <td valign="top" width="40%">
+    <!-- Columna Izquierda: Badges / Connections -->
+    <td valign="top" width="60%">
       <h3>Connections</h3>
       <p>
         <img src="https://img.shields.io/badge/R-A51C30?style=flat&logo=r&logoColor=white" alt="R" />
@@ -50,30 +52,15 @@
         <a href="https://www.reddit.com/user/Ready-Ad-4003/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit" /></a>
       </p>
     </td>
-
-    <!-- Columna 2: CS50R Capstone Video -->
-    <td valign="top" align="center" width="20%">
-      <b>CS50R Video</b><br>
+    <!-- Columna Derecha: Video Capstone CS50R -->
+    <td valign="top" align="center" width="40%">
+      <b>CS50R Capstone Project</b><br>
       <a href="https://www.youtube.com/watch?v=lYkjYNni9OQ" target="_blank">
-        <img src="https://img.youtube.com/vi/lYkjYNni9OQ/mqdefault.jpg" alt="CS50R Capstone Demo" width="160" style="border-radius: 6px; margin-top: 8px;" />
-      </a>
-    </td>
-
-    <!-- Columna 3: Harvard Capstone 1 -->
-    <td valign="top" align="center" width="20%">
-      <b>Harvard Capstone 1</b><br>
-      <a href="https://drive.google.com/file/d/1ffAmYGX_48Y5kX85KfXo1Hr1p_GL7CE2/view?usp=drive_link" target="_blank">
-        <img src="https://lh3.googleusercontent.com/d/1ffAmYGX_48Y5kX85KfXo1Hr1p_GL7CE2" alt="Harvard Capstone 1" width="160" style="border-radius: 6px; margin-top: 8px; border: 1px solid #ddd;" />
-      </a>
-    </td>
-
-    <!-- Columna 4: Harvard Capstone 2 -->
-    <td valign="top" align="center" width="20%">
-      <b>Harvard Capstone 2</b><br>
-      <a href="https://drive.google.com/file/d/1kserRPy2LfwnEkWIKhhtSO_fUxBaTVHM/view?usp=drive_link" target="_blank">
-        <img src="https://lh3.googleusercontent.com/d/1kserRPy2LfwnEkWIKhhtSO_fUxBaTVHM" alt="Harvard Capstone 2" width="160" style="border-radius: 6px; margin-top: 8px; border: 1px solid #ddd;" />
+        <img src="https://img.youtube.com/vi/lYkjYNni9OQ/mqdefault.jpg" alt="CS50R Capstone Demo" width="260" style="border-radius: 8px; margin-top: 8px;" />
       </a>
     </td>
   </tr>
 </table>
+
+
 
