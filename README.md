@@ -49,7 +49,6 @@
         <a href="https://www.reddit.com/user/Ready-Ad-4003/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit" /></a>
       </p>
     </td>
-    <!-- Columna Derecha: Video Capstone CS50R -->
     <td valign="top" align="center" width="40%">
       <b>CS50R Capstone Project</b><br>
       <a href="https://www.youtube.com/watch?v=lYkjYNni9OQ" target="_blank">
