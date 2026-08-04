@@ -1,5 +1,7 @@
-![Gráfico de Contribuciones](https://ghchart.rshah.org/TU_USUARIO_GITHUB)
-
+![Gráfico de Contribuciones](https://ghchart.rshah.org/bustosmiguel)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" />
+</p>
 # Miguel Angel Bustos Sáez
 
 ## Professional Certificate in Data Science by HarvardX and R by Harvard CS50.
