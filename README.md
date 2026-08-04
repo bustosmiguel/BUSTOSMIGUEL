@@ -2,6 +2,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" />
 </p>
 
+
+
 # Miguel Angel Bustos Sáez
 
 ## Professional Certificate in Data Science by HarvardX and R by Harvard CS50.
@@ -68,3 +70,5 @@
 <a href="https://www.reddit.com/user/Ready-Ad-4003/" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-Discussions-A51C30?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
+
+![Gráfico de Contribuciones](https://ghchart.rshah.org/bustosmiguel)
