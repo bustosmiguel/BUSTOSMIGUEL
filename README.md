@@ -1,13 +1,10 @@
 <table width="100%">
   <tr>
-    <!-- Columna Izquierda: Gráfico Verde SVG -->
-    <td valign="middle" align="center" width="50%">
-      <img src="https://ghchart.rshah.org/40c463/bustosmiguel" alt="Gráfico de Contribuciones" style="max-width: 100%;" />
+    <td valign="top" align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=bustosmiguel&show_icons=true&theme=dark" alt="GitHub Stats" width="100%" />
     </td>
-
-    <!-- Columna Derecha: Tarjeta de Actividad Vercel -->
-    <td valign="middle" align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" style="max-width: 100%;" />
+    <td valign="top" align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" width="100%" />
     </td>
   </tr>
 </table>
