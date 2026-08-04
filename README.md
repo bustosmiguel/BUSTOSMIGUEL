@@ -1,12 +1,6 @@
-<div align="center">
-  <img src="https://ghchart.rshah.org/40c463/bustosmiguel" alt="Gráfico de Contribuciones" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" width="48%" />
-</div>
-
 # Miguel Angel Bustos Sáez
 
-## Professional Certificate in Data Science by HarvardX and R by Harvard CS50.
+## Professional Certificate in Data Science by HarvardX.
 
 ### Resume & Certifications
 
@@ -19,6 +13,11 @@
 | **CS50R: R Developer** | Harvard CS50 | [📜 Certificate](https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter/) • [🎥 Capstone Demo (YouTube)](https://www.youtube.com/watch?v=lYkjYNni9OQ) |
 
 
+<div align="center">
+  <img src="https://ghchart.rshah.org/40c463/bustosmiguel" alt="Gráfico de Contribuciones" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" width="48%" />
+</div>
 
 
 
