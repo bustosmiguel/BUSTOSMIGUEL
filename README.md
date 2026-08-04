@@ -24,6 +24,7 @@
 <table>
   <tr>
     <!-- Columna Izquierda: Badges / Connections -->
+    
     <td valign="top" width="60%">
       <p>
         <img src="https://img.shields.io/badge/R-A51C30?style=flat&logo=r&logoColor=white" alt="R" />
