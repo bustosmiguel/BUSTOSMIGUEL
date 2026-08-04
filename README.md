@@ -16,7 +16,7 @@
 | **Data Science Professional** | Harvard / edX | [🎓 Certificate](https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/) • [Program Info](https://pll.harvard.edu/series/professional-certificate-data-science) |
 | **CS50R: R Developer** | Harvard CS50 | [📜 Certificate](https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter/) • [🎥 Capstone Demo (YouTube)](https://www.youtube.com/watch?v=lYkjYNni9OQ) |
 
-### Stack & Tools
+### Connections
 
 <p align="left">
   <img src="https://img.shields.io/badge/R-A51C30?style=flat&logo=r&logoColor=white" alt="R" />
@@ -27,9 +27,6 @@
   <img src="https://img.shields.io/badge/GitHub-121212?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Markdown-121212?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
-
-### Portfolios & Platforms
-
 <p align="left">
   <a href="https://connect.posit.cloud/miguelbustos" target="_blank"><img src="https://img.shields.io/badge/Posit_Cloud-A51C30?style=flat&logo=rstudio&logoColor=white" alt="Posit Cloud" /></a>
   <a href="https://rpubs.com/bustosmiguel" target="_blank"><img src="https://img.shields.io/badge/RPubs-A51C30?style=flat&logo=r&logoColor=white" alt="RPubs" /></a>
@@ -37,9 +34,6 @@
   <a href="https://www.kaggle.com/bustosmiguel" target="_blank"><img src="https://img.shields.io/badge/Kaggle-121212?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://github.com/bustosmiguel" target="_blank"><img src="https://img.shields.io/badge/GitHub-121212?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-### Connect
-
 <p align="left">
   <a href="https://www.linkedin.com/in/bustosmiguel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@ing.mig.bustos" target="_blank"><img src="https://img.shields.io/badge/Medium-121212?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -47,9 +41,12 @@
   <a href="https://www.instagram.com/bustosmiguel_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.reddit.com/user/Ready-Ad-4003/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit" /></a>
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" />
 </p>
 
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=lYkjYNni9OQ" target="_blank">
+    <img src="https://img.youtube.com/vi/lYkjYNni9OQ/mqdefault.jpg" alt="CS50R Capstone Demo: Regression Data R Package" width="320" />
+  </a>
+</p>
