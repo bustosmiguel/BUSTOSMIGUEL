@@ -7,6 +7,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bustosmiguel&theme=github-compact" alt="Gráfico de Actividad" height="150" />
 </p>
 
+
 ---
 
 ### Credentials & Projects
