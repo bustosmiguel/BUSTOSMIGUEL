@@ -1,6 +1,12 @@
 # Miguel Angel Bustos Sáez
 ## Professional Certificate in Data Science by HarvardX
 
+Soy Miguel Angel Bustos, me especializo en comunicar de forma clara la salida de los datos, en:
+
+- Análisis, estadísticas y Aprendizaje Automáticon con R, .r y .rmd.
+- Programación Orientada a Objetos para la IA con PYTHON, con py.
+- Cloud IA, desde IBM o GCP, buscar recursos tecnológicos para diseñar la IA, como LLM, OCR, Storage, entre otros.
+  
 <p align="center">
   <img src="https://ghchart.rshah.org/40c463/bustosmiguel" alt="Gráfico de Contribuciones" height="150" />
   &nbsp;&nbsp;
