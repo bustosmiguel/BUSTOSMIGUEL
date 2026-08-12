@@ -7,7 +7,7 @@ Soy Miguel Angel Bustos, me especializo en comunicar de forma clara la salida de
 - PYTHON | Programación Orientada a Objetos para la IA con .py. (Mentor: Lucas Dalto @soydalto)
 - Cloud | Desde IBM o GCP, buscar recursos tecnológicos para diseñar la IA, como LLM, OCR, Storage, VM´s, entre otros.
 
-Mi meta es seguir especializándome en R, dominar python y recursos de IA multicloud, por ello, mi work environment está basado en WSL y git.
+.r, .py y recursos de IA multicloud es mi data toolkit, doy foco a un work environment basado en WSL, zsh y git, como visión de propuesta de valor en los proyectos.
 
 <p align="center">
   <img src="https://ghchart.rshah.org/40c463/bustosmiguel" alt="Gráfico de Contribuciones" height="150" />
