@@ -9,6 +9,8 @@ Soy Miguel Angel Bustos, me especializo en comunicar de forma clara la salida de
 
 .r, .py y recursos de IA multicloud es mi data toolkit, doy foco a un work environment basado en WSL, zsh y git, como visión de propuesta de valor en los proyectos.
 
+Los programas técnicos que poseo son de Harvard EDX, por el lenguaje técnico y proyectos de alto nivel.
+
 <p align="center">
   <img src="https://ghchart.rshah.org/40c463/bustosmiguel" alt="Gráfico de Contribuciones" height="150" />
   &nbsp;&nbsp;
