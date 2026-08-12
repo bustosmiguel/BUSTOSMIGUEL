@@ -1,7 +1,7 @@
 # Miguel Angel Bustos Sáez
 ## Professional Certificate in Data Science by HarvardX
 
-Soy Miguel Angel Bustos, me especializo en comunicar de forma clara la salida de los datos, en:
+Soy Miguel Angel Bustos, me especializo en estas tecnologías y comunicar de forma clara la salida de los datos, en:
 
 - R | Análisis, estadísticas y Aprendizaje Automáticon con .r y .rmd. (Mentor: Rafael Irizarry @rafalab)
 - PYTHON | Programación Orientada a Objetos para la IA con .py. (Mentor: Lucas Dalto @soydalto)
