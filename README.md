@@ -3,13 +3,13 @@
 
 Soy Miguel Angel Bustos, me especializo en estas tecnologías y comunicar de forma clara la salida de los datos, en:
 
-- R | Análisis, estadísticas y Aprendizaje Automáticon con .r y .rmd. (Mentor: Rafael Irizarry @rafalab)
+- R | Análisis, estadísticas y Aprendizaje Automáticon con .r y shiny, junto a docs en .rmd. (Mentor: Rafael Irizarry @rafalab)
 - PYTHON | Programación Orientada a Objetos para la IA con .py. (Mentor: Lucas Dalto @soydalto)
 - Cloud | Desde IBM o GCP, buscar recursos tecnológicos para diseñar la IA, como LLM, OCR, Storage, VM´s, entre otros.
 
-Los cursos técnicos que poseo, son de Harvard EDX, por el inglés, lenguaje técnico y proyectos de alto nivel, garantizando mi desarrollo profesional en el manejo de los datos.
+Los cursos técnicos que poseo, son de Harvard EDX, por el inglés, lenguaje técnico y proyectos de alto nivel, así potenciarme en el manejo de los datos over the average.
 
-.r, .py y recursos de IA multicloud es mi data toolkit, doy foco a un work environment basado en WSL, zsh y git, como mi propuesta de valor diferenciadora, competente y profesional.
+.r, .py y recursos de IA multicloud es mi ambición profesional, doy foco a un work environment basado en interfaz VSC, management con LINUX y repositorios con GIT, potenciando una propuesta de valor diferenciadora, competente y profesional.
 
 
 <p align="center">
