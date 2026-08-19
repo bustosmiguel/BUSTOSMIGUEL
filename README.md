@@ -5,7 +5,7 @@
 
 <details open><summary><b>🇪🇸 Español (Haz clic para replegar)</b></summary>
 
-**Data amd AI Specialist**:
+**Data and AI Specialist**:
 * **R:** Análisis, estadística, ML y Shiny (`.r`, `.rmd`). *(Mentor: Rafael Irizarry @rafalab)*
 * **Python:** Programación Orientada a Objetos para IA (`.py`). *(Mentor: Lucas Dalto @soydalto)*
 * **Cloud & DevOps:** GCP e IBM Cloud (LLMs, OCR, Storage, VMs) sobre VS Code, Linux y Git.
@@ -23,7 +23,7 @@
 
 <details><summary><b>🇺🇸 English (Click to expand)</b></summary>
 
-**Data amd AI Specialist**:
+**Data and AI Specialist**:
 * **R:** Statistical analysis, ML, and Shiny apps (`.r`, `.rmd`). *(Mentor: Rafael Irizarry @rafalab)*
 * **Python:** Object-Oriented Programming for AI (`.py`). *(Mentor: Lucas Dalto @soydalto)*
 * **Cloud & DevOps:** GCP & IBM Cloud (LLMs, OCR, Storage, VMs) using VS Code, Linux, and Git.
