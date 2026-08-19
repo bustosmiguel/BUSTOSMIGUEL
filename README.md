@@ -20,15 +20,6 @@ Los cursos técnicos que poseo, son de Harvard EDX, por el inglés, lenguaje té
 
 ---
 
-### CS50 Capstone Projects & Video Demos
-
-| CS50 Track & Program | Capstone Video & Description |
-| :--- | :--- |
-| **CS50P: Python Developer**<br>_CS50's Introduction to Programming with Python_ | 🎥 **[ROUTE AND DISPATCH OPTIMIZER (YouTube)](#)**<br>_A CLI-based logistics and route optimization tool implementing object-oriented programming, data validation, and automated testing with pytest._ |
-| **CS50R: R Developer**<br>_CS50's Introduction to Programming with R_ | 🎥 **[REGRESSIONDATA R PACKAGE SIMULATION (YouTube)](https://www.youtube.com/watch?v=lYkjYNni9OQ)**<br>_Historical Geopolitical and Economic Data for Regression Modeling R package simulation with custom functions (`religion`, `politics`, `economy`)._ |
-
----
-
 ### Credentials & Projects
 
 | Program / Certificate | Issuer | Verification / Link |
@@ -36,6 +27,15 @@ Los cursos técnicos que poseo, son de Harvard EDX, por el inglés, lenguaje té
 | **Professional Resume** | GitHub | [📄 View CV](https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ) |
 | **Data Science Professional** | Harvard / edX | [🎓 Certificate](https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/) • [Program Info](https://pll.harvard.edu/series/professional-certificate-data-science) |
 | **CS50R: R Developer** | Harvard CS50 | [📜 Certificate](https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter/) • [🎥 Capstone Demo (YouTube)](https://www.youtube.com/watch?v=lYkjYNni9OQ) |
+
+---
+
+### CS50 Capstone Projects & Video Demos
+
+| CS50 Track & Program | Capstone Video & Description |
+| :--- | :--- |
+| **CS50P: Python**<br>_CS50's Introduction to Programming with Python_ | 🎥 **[ROUTE AND DISPATCH OPTIMIZER (YouTube)](#)**<br>_A CLI-based logistics and route optimization tool implementing object-oriented programming, data validation, and automated testing with pytest._ |
+| **CS50R: R**<br>_CS50's Introduction to Programming with R_ | 🎥 **[REGRESSIONDATA R PACKAGE SIMULATION (YouTube)](https://www.youtube.com/watch?v=lYkjYNni9OQ)**<br>_Historical Geopolitical and Economic Data for Regression Modeling R package simulation with custom functions (`religion`, `politics`, `economy`)._ |
 
 ---
 
