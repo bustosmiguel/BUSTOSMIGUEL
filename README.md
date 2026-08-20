@@ -39,9 +39,9 @@
 
 </details>
 
----
+<details><summary><b>Network (Click to expand)</b></summary>
 
-### 🌐 Red & Ecosistema | Network & Tech Stack
+### Red & Ecosistema | Network & Tech Stack
 
 <table><tr><td align="center">
   <a href="https://www.linkedin.com/in/bustosmiguel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
