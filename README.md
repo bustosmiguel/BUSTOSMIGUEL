@@ -15,9 +15,9 @@
 | Certificación / Documento | Emisor | Acceso & Verificación |
 | :--- | :--- | :--- |
 | **CV Profesional** | GitHub | [📄 Ver CV Completo](https://github.com/bustosmiguel/RESUME-MIGUEL_ANGEL_BUSTOS_SAEZ) |
-| **Harvard Data Scientist** | HarvardX / edX | [📜 Certificado](https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/) • [Programa](https://pll.harvard.edu/series/professional-certificate-data-science) • [Capstone 1](https://drive.google.com/file/d/1ffAmYGX_48Y5kX85KfXo1Hr1p_GL7CE2/view?usp=drive_link) • [Capstone 2](https://drive.google.com/file/d/1kserRPy2LfwnEkWIKhhtSO_fUxBaTVHM/view?usp=drive_link) |
-| **CS50P Certificate** | Harvard CS50 | [📜 Certificado](https://certificates.cs50.io/9baae8a6-7625-4365-89fd-cc479be8e3a2.pdf?size=letter) • [🎥 Demo: Route & Dispatch Optimizer](https://www.youtube.com/watch?v=aRIMKR4K-b4) |
-| **CS50R Certificate** | Harvard CS50 | [📜 Certificado](https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter) • [🎥 Demo: RegressionData R Package](https://www.youtube.com/watch?v=lYkjYNni9OQ) |
+| **Harvard Data Scientist** | HarvardX /edX | [📜 Certificado](https://credentials.edx.org/credentials/555558188af147cbac9763431173b9bf/) • [Programa](https://pll.harvard.edu/series/professional-certificate-data-science) • [Capstone 1](https://drive.google.com/file/d/1ffAmYGX_48Y5kX85KfXo1Hr1p_GL7CE2/view?usp=drive_link) • [Capstone 2](https://drive.google.com/file/d/1kserRPy2LfwnEkWIKhhtSO_fUxBaTVHM/view?usp=drive_link) |
+| **CS50P Certificate** | Harvard CS50 | [📜 Certificado](https://certificates.cs50.io/9baae8a6-7625-4365-89fd-cc479be8e3a2.pdf?size=letter) • [🎥 Video capstone: Route & Dispatch Optimizer](https://www.youtube.com/watch?v=aRIMKR4K-b4) |
+| **CS50R Certificate** | Harvard CS50 | [📜 Certificado](https://certificates.cs50.io/5e36b735-9570-4bc0-8861-e9b80b785c57.pdf?size=letter) • [🎥 Video capstone: R Package simulator](https://www.youtube.com/watch?v=lYkjYNni9OQ) |
 
 </details>
 
