@@ -1,14 +1,14 @@
-<p align="right"><b>Language:</b> <a href="#-español">🇪🇸 Chile</a> | <a href="#-english">🇺🇸 English</a></p>
+<p align="right"><b>Language:</b> <a href="#-chile">🇨🇱 Chile</a> | <a href="#-english">🇺🇸 English</a></p>
 
 # Miguel Angel Bustos Sáez
 ## Professional Certificate in Data Science by HarvardX
 
-<details open><summary><b>🇪🇸 Chile (Haz clic para replegar)</b></summary>
+<details open><summary><b>🇨🇱 Chile (Haz clic para replegar)</b></summary>
 
 **Data and AI Specialist**:
-* **R:** Análisis, estadística, ML y Shiny (`.r`, `.rmd`). *(Mentor: Rafael Irizarry @rafalab)*
-* **Python:** Programación Orientada a Objetos para IA (`.py`). *(Mentor: Lucas Dalto @soydalto)*
-* **Cloud & DevOps:** GCP e IBM Cloud (LLMs, OCR, Storage, VMs) sobre VS Code, Linux y Git.
+- **R:** Análisis, estadística, ML y Shiny (`.r`, `.rmd`). *(Mentor: Rafael Irizarry @rafalab)*
+- **Python:** Programación Orientada a Objetos para IA (`.py`). *(Mentor: Lucas Dalto @soydalto)*
+- **Cloud & DevOps:** GCP e IBM Cloud (LLMs, OCR, Storage, VMs) sobre VS Code, Linux y Git.
 
 **Formación:** Harvard / edX. Enfocado en proyectos de alto nivel e inglés técnico *over the average*.
 
@@ -24,9 +24,9 @@
 <details><summary><b>🇺🇸 English (Click to expand)</b></summary>
 
 **Data and AI Specialist**:
-* **R:** Statistical analysis, ML, and Shiny apps (`.r`, `.rmd`). *(Mentor: Rafael Irizarry @rafalab)*
-* **Python:** Object-Oriented Programming for AI (`.py`). *(Mentor: Lucas Dalto @soydalto)*
-* **Cloud & DevOps:** GCP & IBM Cloud (LLMs, OCR, Storage, VMs) using VS Code, Linux, and Git.
+- **R:** Statistical analysis, ML, and Shiny apps (`.r`, `.rmd`). *(Mentor: Rafael Irizarry @rafalab)*
+- **Python:** Object-Oriented Programming for AI (`.py`). *(Mentor: Lucas Dalto @soydalto)*
+- **Cloud & DevOps:** GCP & IBM Cloud (LLMs, OCR, Storage, VMs) using VS Code, Linux, and Git.
 
 **Education:** Harvard / edX. Focused on high-level projects and technical English *over the average*.
 
