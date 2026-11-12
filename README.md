@@ -3,7 +3,7 @@
 # Miguel Angel Bustos Sáez
 ## Professional Certificate in Data Science by HarvardX
 
-<details open><summary><b>🇪🇸 Español (Haz clic para replegar)</b></summary>
+<details open><summary><b>🇪🇸 Chile (Haz clic para replegar)</b></summary>
 
 **Data and AI Specialist**:
 * **R:** Análisis, estadística, ML y Shiny (`.r`, `.rmd`). *(Mentor: Rafael Irizarry @rafalab)*
